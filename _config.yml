@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Peter Enzinna
 description: librarian, archivist
+navbar-links:
+  CV: "https://yespete.github.io/cv"
